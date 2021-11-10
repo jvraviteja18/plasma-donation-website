@@ -1,7 +1,7 @@
 Project name: Plasma Donation Website
-
-Team members:
-198W1A0520 - JV Ravi Teja
-198W1A0524 - KV Nageswara Rao
-198W1A0526 - KHS Hari Lal
-198W1A0507 - B Sai Ratnakar
+Desciption:
+The world is suffering from COVID 19 crisis, and we don't have any medicine
+yet. But there is another scientific way from which we can help to lower the
+death ratio or help the COVID 19 affected person. With no approved antiviral
+treatment plan for the deadly COVID-19 infection, plasma therapy is an
+experimental approach to treat COVID positive patients and help them recover faster
